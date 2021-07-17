@@ -109,7 +109,7 @@ html,body{
     margin-top: 2%;;
 }
 .about-container .right{
-    background:url(../image_resources/photo-2.jpg);
+    background:url(image_resources/photo-2.jpg);
     flex:1;
     background-position: center;
     background-size: cover;
@@ -117,7 +117,7 @@ html,body{
 }
 /*Testimonial Section  */
 #test{
-    background:url(../image_resources/test-bg.jpg);
+    background:url(image_resources/test-bg.jpg);
 }
 .test-container{
     display:flex;
@@ -137,18 +137,18 @@ html,body{
     display:flex;
 }
 .test-container .p1 .left{
-    background:url(../image_resources/person-1.jpg) ;
+    background:url(image_resources/person-1.jpg) ;
     display:inline-block;
-    width:40%;
-    height:150px;
+    width:90%;
+    height:200px;
     background-position: center;
     background-size: cover;
     border-radius: 100%;
 }
 .test-container .p2 .left{
-    background:url(../image_resources/person-2.jpg) ;
+    background:url(image_resources/person-2.jpg) ;
     display:inline-block;
-    width:40%;
+    width:90%;
     height:150px;
     background-position: center;
     background-size: cover;
@@ -161,33 +161,6 @@ html,body{
     word-spacing: 1.5;
     text-align: left;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Footer */
 #footer{
     background:#333;
