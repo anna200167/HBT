@@ -82,7 +82,7 @@ html,body{
 }
 /* Showcase section */
 #showcase{
-    background-image: url(../image_resources/showcase.jpg);
+    background-image: url(image_resources/showcase.jpg);
     height:91vh;
 }
 .showcase-container{
@@ -119,7 +119,7 @@ html,body{
    /* height:50vh; */
 }
 #aside .left{
-    background-image: url(../image_resources/photo-1.jpg);
+    background-image: url(image_resources/photo-1.jpg);
     flex:1;
     background-position: center;
     background-size: cover;
