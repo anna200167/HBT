@@ -114,6 +114,7 @@ textarea{
 }
 textarea{
     height:5rem;
+    outline:none;
     resize:none;
 }
 /* Reach Us */
@@ -180,4 +181,13 @@ background: #000;
 #footer p{
     font-size: 1.3rem;
     padding:20px;
+}
+/* Submit */
+button{
+    width:100px;
+    height:100px;
+    color:#fff;
+    border:none;
+    outline:none;
+    background-color: #000;
 }
