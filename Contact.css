@@ -184,9 +184,8 @@ background: #000;
 }
 /* Submit */
 button{
-    margin:2%;
     width:100px;
-    height:2%;
+    padding:3%;
     color:#fff;
     border:none;
     outline:none;
